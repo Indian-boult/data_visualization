@@ -1,3 +1,3 @@
 # data_visualization
 
-This repository contains visualizations using differet techniques.
+This repository contain visualizations using differet techniques.
